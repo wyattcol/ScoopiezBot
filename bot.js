@@ -14,7 +14,7 @@ var Commands = "The following are the commands.\n\n**Group Rank Permssion Comman
 
 
 // The token of your bot - https://discordapp.com/developers/applications/me
-const token = 'NTEwODY5NDEzMjgxNjYwOTMz.DsiogA.jDlxHQ6VHqxiI8We-1KjG7ctBiM';
+const token = 'NTEwODY5NDEzMjgxNjYwOTMz.Dsm0yA.T1enf418QWuZbw-zotjy4SVTYDE';
 
 // The ready event is vital, it means that your bot will only start reacting to information
 // from Discord _after_ ready is emitted
